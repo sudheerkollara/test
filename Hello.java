@@ -8,7 +8,9 @@ import com.sun.image.codec.jpeg.JPEGCodec;
 import com.sun.image.codec.jpeg.JPEGEncodeParam;
 import com.sun.image.codec.jpeg.JPEGImageEncoder;
 import com.weblogic.Security;
-//Test program
+//YY
+//Test111 program11
+//nnn
 
 public class Hello {
  public static void main(String a[]) {
